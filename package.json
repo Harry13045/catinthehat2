@@ -1,0 +1,6 @@
+{
+  "name": "cat-in-the-hat-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Cat in the Hat GPT",
+  "private": true
+}
